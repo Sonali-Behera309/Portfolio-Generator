@@ -1,5 +1,4 @@
-# Let's generate the updated README.md content reflecting the actual features from the uploaded files.
-updated_readme = """# Portfolio Generator
+# Portfolio Generator
 
 A simple, interactive **Portfolio Generator Web App** built with **HTML, CSS, and JavaScript**.  
 Fill in your details, list your skills, and describe your main project — the app will instantly generate a styled portfolio preview right on the page.
